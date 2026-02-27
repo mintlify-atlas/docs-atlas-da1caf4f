@@ -273,6 +273,12 @@
             ]
           },
           {
+            "group": "Shopify",
+            "pages": [
+              "api-reference/shopify/post-apishopifyplan_change"
+            ]
+          },
+          {
             "group": "Health",
             "pages": [
               "api-reference/health/health-check"
